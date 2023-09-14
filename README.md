@@ -7,7 +7,7 @@ Keybindings to move to the parent directory for fish.
 Using [fisher](https://github.com/jorgebucaran/fisher):
 
 ```
-fisher install magical-liebe/cdpd-keybind.fish
+fisher install liebe-magi/cdpd-keybind.fish
 ```
 
 ## Usage
